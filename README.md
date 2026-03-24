@@ -1,2 +1,2 @@
 # quiz-matematica
-joguinho SEMED online
+joguinho SEMED online, para Treinamento.
